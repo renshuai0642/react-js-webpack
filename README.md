@@ -1,1 +1,1 @@
-# react-pure
+# react-pure-webpack
